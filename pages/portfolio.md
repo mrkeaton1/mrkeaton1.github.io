@@ -1,9 +1,9 @@
 --- 
 layout: page
-title : Portfolio 
+title : Portfolio/Publications
 permalink: /portfolio/
-subtitle: "Projects I am working on" 
-feature-img: "assets/img/pexels/computer.jpeg"
+subtitle: "Current/previous research and other projects" 
+feature-img: "assets/img/main_imgs/Edgy-AI-Image.jpeg"
 tags: [Page]
 ---
 
