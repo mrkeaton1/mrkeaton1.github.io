@@ -10,8 +10,8 @@ This is just a gallery of some fun photos from my favorite hobbies and experienc
 
 <br />
 
-#### Indonesia:
-During a study abroad I did to Australia, I took a trip with one of my friends to Indonesia, where we found a local who was willing to rent out his car to us (then deciding he wanted to see his country as well, and tagged along!). Starting in the northwest corner of Java in the city of Jakarta, with the mission of making it to the other end of the massive island to climb a volcano, we drove day and night, stopping at beautiful villages, densely populated cities, and Buddhist and Hindu temples. 
+#### Indonesia
+During a study abroad I did to Australia, I took a trip with one of my friends to Indonesia, where we found a local who was willing to rent out his car to us (then deciding he wanted to see his country as well, and tagged along!). With about a week to spare, we started in the northwest corner of Java in the city of Jakarta with the mission of making it to the other end of the massive island to climb a volcano. We drove day and night, stopping at beautiful villages, densely populated cities, and Buddhist and Hindu temples. 
 
 {% include gallery.html gallery_path="assets/img/gallery/Indonesia" %}
 

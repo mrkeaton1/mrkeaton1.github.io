@@ -3,14 +3,11 @@ layout: page
 title: About
 permalink: /about/
 feature-img: "assets/img/main_imgs/sierpinski_triangle.jpg"
-tags: [Page]
 ---
 
 ### Hi! My name is Matthew Keaton.
 
-[comment]:![](../assets/img/main_imgs/MattKeatonfeaturestory-203.jpg)
-
-<img style="width:555px;float: right;" src="../assets/img/main_imgs/MattKeatonfeaturestory-203.jpg">
+<img style="width:45%;float:right;padding-right:0%;padding-left:5%;padding-bottom:2%" src="../assets/img/main_imgs/MattKeatonfeaturestory-203.jpg">
 
 I have a deep passion for learning about -- and one day, improving our understanding of -- the mechanisms that give rise to that strange, continuous experience which allows for us to do everything, including reading the Markdown letters appearing on the glowing screen in front of you. As a scientist, that mainly directs me into the lanes of neuroscience and machine learning.
  
