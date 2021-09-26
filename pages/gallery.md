@@ -1,14 +1,18 @@
 ---
 layout: page
 title: Gallery
-subtitle: From the pexels folder
 permalink: /gallery/
-gallery_path: "assets/img/gallery/Indonesia"
-tags: [Page]
+gallery_path: "assets/img/gallery/"
+tags: [Personal]
 ---
 
-This is a photo gallery made from the static files in the `assets/img/pexels` folder. 
-I wanted to create automatically a simple gallery from a folder without having to create a markdown page as you would for the portfolio.
+This is just a gallery of some fun photos from my favorite hobbies and experiences. Enjoy!
 
+<br />
 
-{% include gallery.html gallery_path=page.gallery_path %}
+#### Indonesia:
+During a study abroad I did to Australia, I took a trip with one of my friends to Indonesia, where we found a local who was willing to rent out his car to us (then deciding he wanted to see his country as well, and tagged along!). Starting in the northwest corner of Java in the city of Jakarta, with the mission of making it to the other end of the massive island to climb a volcano, we drove day and night, stopping at beautiful villages, densely populated cities, and Buddhist and Hindu temples. 
+
+{% include gallery.html gallery_path="assets/img/gallery/Indonesia" %}
+
+More things to come!

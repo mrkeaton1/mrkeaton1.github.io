@@ -3,7 +3,7 @@ layout: page
 title : Portfolio/Publications
 permalink: /portfolio/
 subtitle: "Current/previous research and other projects" 
-feature-img: "assets/img/main_imgs/Edgy-AI-Image.jpeg"
+feature-img: "assets/img/main_imgs/circuit.jpeg"
 tags: [Page]
 ---
 
