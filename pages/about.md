@@ -17,5 +17,5 @@ Currently, I am a computer science master's student researching computer vision 
 
 Please take a look at my Publications and Resume pages, and check out my Github, Google Scholar, LinkedIn, and email address linked at the bottom of each webpage.
 
-Finally, I plan to start a blog series, likely including interesting content/papers I read regarding neuroscience, machine learning, and possibly some other things I like including physics or engineering papers. Stay tuned, and enjoy your stay!
+Finally, I plan to start a blog series in early 2022, likely including interesting content/papers I read regarding neuroscience, machine learning, and possibly some other things I like including physics or engineering papers. Stay tuned, and enjoy your stay!
 
