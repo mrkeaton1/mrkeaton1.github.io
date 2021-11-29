@@ -1,7 +1,6 @@
 ---
 layout: embedded_blank_page
-title: Embedded Resume
-permalink: /embedded_resume/
+permalink: /hidden/embedded_resume/
 ---
 
 <div style="font-size: xx-large; font-family: Georgia; text-align: center">Matthew Richardson Keaton</div>
