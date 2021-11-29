@@ -7,7 +7,7 @@ feature-img: "assets/img/main_imgs/sierpinski_triangle.jpg"
 
 ### Hi! My name is Matthew Keaton.
 
-<img style="width:45%;float:right;padding-right:0%;padding-left:5%;padding-bottom:2%" src="../assets/img/main_imgs/MattKeatonfeaturestory-203.jpg">
+<img style="width:45%;float:right;padding-right:0%;padding-left:5%;padding-bottom:2%" src="../assets/img/main_imgs/MattKeatonfeaturestory-203-medium.jpg">
 
 I have a deep passion for learning about -- and one day, improving our understanding of -- the mechanisms that give rise to that strange, continuous experience which allows for each of us to do everything that we do, including reading the Markdown letters appearing on the glowing screen in front of you. As a scientist, that mainly directs me into the lanes of neuroscience and machine learning.
  

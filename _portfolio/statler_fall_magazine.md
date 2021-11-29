@@ -2,7 +2,7 @@
 layout: post
 title: WVU Statler College Fall 2018 Magazine Article
 feature-img: "assets/img/portfolio/statler_fall_magazine_cut.png"
-img: "assets/img/portfolio/statler_fall_magazine.png"
+img: "assets/img/portfolio/statler_fall_magazine-small.png"
 date: 28 November 2021
 tags: [Professional]
 ---
