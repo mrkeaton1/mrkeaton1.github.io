@@ -32,9 +32,12 @@ comments:
   disqus_shortname:                                     # Your discus shortname for comments
   cusdis_app_id:                                        # Your cusdis data-app-id
   utterances:                                           # Enable by filling below information. For more info, go to https://utteranc.es
-    repo:                                               # your public comments repository (e.g. owner/repo)
-    issue-term:                                         # Issue term (e.g. "comment" consider issues with this word in the title as comments)
-
+    repo: "mrkeaton1/mrkeaton1.github.io"               # your public comments repository (e.g. owner/repo)
+    issue-term: "title"                                 # Issue term (e.g. "comment" consider issues with this word in the title as comments)
+    label: "Comment"
+    theme: "preferred-color-scheme"
+#    theme: "github-light"
+    crossorigin: "anonymous"
 # PAGINATION
 paginate: 5
 paginate_path: "/blog/page:num"
