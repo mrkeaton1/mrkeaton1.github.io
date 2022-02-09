@@ -9,10 +9,7 @@ author: Matthew Keaton
 excerpt_separator: <!--more-->
 ---
 
-
-### Introduction – First, Why Neuroscience?
-
-Neuroscience, at its core, is humankind’s effort in answering the seemingly simple question of “How does the brain work?” <!--more--> However, as soon as you begin to carefully poke at that question a bit more, an endless supply of other questions seems to fall out.
+Neuroscience, at its core, is humankind’s effort in answering the seemingly simple question of “How does the brain work?” However, as soon as one begins to carefully poke at this question a bit more, it seems as though an endless supply of other questions begin to fall out. <!--more-->
 
 _What causes the brain to not work correctly? How do we make it work correctly?_
 
