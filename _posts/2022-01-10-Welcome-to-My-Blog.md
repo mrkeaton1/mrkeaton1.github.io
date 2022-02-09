@@ -13,7 +13,11 @@ As you may or may not have noticed, the webpage you are currently visiting is my
 haven't yet, please have a look at the "About" page linked above for a proper self introduction and guide to 
 this website.
 
+<br/>
+
 ...
+
+<br/>
 
 Ok, welcome back! Now that you know my background and interests, let me explain the intentions of this blog series 
 and some details on what I would like to cover.
@@ -31,12 +35,18 @@ have decided to begin to move the needle in a manner that is unique and motivati
 
 In pursuit of both of these goals, I aim to present a cogent, easy to understand set of 
 articles which, following the constraints I have set for myself, will hopefully be both engaging and informative. I 
-intend to publish approximately every two weeks over the course of the final semester of my master's degree (which 
-begins today), meaning that there will be seven articles by the end of this series. Each article will be independent 
+intend to publish as often as I can over the course of the final semester of my master's degree (which 
+begins today), although this will be dependent on my level of occupation with many things I intend to wrap up soon. Each article will be independent 
 of the others and be able to stand on its own, although some groundbreaking work will likely build on topics discussing 
 the more foundational research.
 
 I am very excited to start working on this project, and I hope that you will come away with something from each of
 these posts as well.
 
--- Matthew Keaton
+<br/>
+
+--- *__M__*
+
+<br/>
+<hr/>
+<br/>
