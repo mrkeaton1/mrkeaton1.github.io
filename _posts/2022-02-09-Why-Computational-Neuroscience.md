@@ -133,6 +133,8 @@ _P.S. Congratulations on making it to the end! I promise my other posts won’t 
 
 [13] V. Jain and M. Januszewski, “Improving Connectomics by an Order of Magnitude,” _Google AI Blog_, Jul. 16, 2018. https://ai.googleblog.com/2018/07/improving-connectomics-by-order-of.html (accessed Feb. 07, 2022).
 
+[14] M. Telias and M. Segal, “Patch-Clamp Recordings from Human Embryonic Stem Cells-Derived Fragile X Neurons,” in _Fragile-X Syndrome: Methods and Protocols_, D. Ben-Yosef and Y. Mayshar, Eds. New York, NY: Springer New York, 2019, pp. 131–139.
+
 <br/>
 
 #### A special thanks to the following resources I used for developing this essay:

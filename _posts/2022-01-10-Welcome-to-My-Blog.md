@@ -5,6 +5,7 @@ tags: Welcome
 color: RGB(85, 180, 176)
 author: Matthew Keaton
 excerpt_separator: <!--more-->
+sticky: true
 ---
 
 Hello, and welcome to my website! My name is Matthew Keaton. <!--more-->

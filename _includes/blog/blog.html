@@ -2,7 +2,8 @@
     {% unless paginator.posts %}
     <article><section class="post-content"><p align="center">Website still in progress; please check out my About page above!</p></section></article>
     {% endunless %}
-    {% for post in paginator.posts %}
+    {% assign sorted = paginator.posts | sort: "stickiness" %}
+    {% for post in sorted %}
     <div class="post-teaser">
         {% if post.thumbnail %}
         <div class="post-img">
